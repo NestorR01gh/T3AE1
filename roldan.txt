@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 user1
+=======
+user2
+>>>>>>> 2fb2583e1fd2fdb41919b5ac52e723ea97a8fd45
